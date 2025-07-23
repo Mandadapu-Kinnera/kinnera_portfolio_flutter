@@ -5,18 +5,6 @@ Welcome to the **Kinnera Portfolio** app!
 This is a personal portfolio application built using **Flutter**, designed to present Mandadapu Kinnera's technical skills, projects, achievements, and contact information in a clean, interactive, and mobile-friendly UI.
 
 
-##  Features
-
-- 📱 Cross-platform Flutter app (Android & iOS support)
-- 🧑‍💻 About section with bio and educational background
-- 💼 Project showcase with details and links
-- 🏆 Achievements & Certifications
-- 📄 Resume download/view option
-- 🌐 Social links (GitHub, LinkedIn, Email)
-- 📬 Contact form (optional backend integration)
-
----
-
 ##  Tech Stack
 
 - **Flutter** (Frontend)
@@ -28,6 +16,7 @@ This is a personal portfolio application built using **Flutter**, designed to pr
 ## Folder Structure
 
 lib/
+
 ├── main.dart               
 ├── screens/                
 ├── widgets/                
@@ -43,16 +32,14 @@ To run this project locally:
 1. **Clone the repository**  
    
    git clone https://github.com/your-username/kinnera_portfolio_flutter.git
+   
    cd kinnera_portfolio_flutter
 
-2. **Install dependencies**
-
+3. **Install dependencies**
  
    flutter pub get
   
-
-3. **Run the app**
-
+4. **Run the app**
    
    flutter run
 
